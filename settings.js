@@ -10,18 +10,18 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
 global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownernumber = ['917029257330'] //ur owner number, dont add more than one
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
+global.ownernumber = ['242056717867'] //ur owner number, dont add more than one
+global.ownername = '┃•🌹⛃⃟✮͢𝐼⃪𝐿⃪𝐿⃪𝑈⃪𝑀⃪𝐼⃪𝑁⃪𝐴⃪𝑇⃪𝐼⃪⿴⃟ٍࣽ𝐺⃪𝑅⃪𝐼⃪𝑀⃪𝑀⃪🌹' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
-global.themeemoji = '🦄'
+global.themeemoji = '🌹'
 global.wm = "Deepak Bot Inc."
 global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot9' //script link
 global.packname = "Zenitsu-Bot"
 global.author = "🦄Dream Guy Deepak"
 global.creator = "917029257330@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["917029257330"] // Premium User
+global.premium = ["242056717867"] // Premium User
 
 //channel id
 global.xchannel = {
@@ -31,8 +31,8 @@ global.xchannel = {
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '92' //set anti foreign number country code
+global.autoblocknumber = '229' //set autoblock country code
+global.antiforeignnumber = '229' //set anti foreign number country code
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
